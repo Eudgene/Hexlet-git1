@@ -1,3 +1,1 @@
-Haskell Curry
-many failes
-add ewerything
+new change in PEOPLE.md
